@@ -1,3 +1,9 @@
+### 📎 Contents
+1. [Project Proposal](#project-proposal)
+2. [1st Semester Mid-term](#1st-semester-mid-term)
+
+<br>
+
 ## 🚀 Project Proposal
 ![image](https://github.com/Bab-Al/.github/assets/90559205/5239941b-8ef4-4026-9f42-9b44a86fe804)
 ![image](https://github.com/Bab-Al/.github/assets/90559205/0ce9b89e-22e4-4d50-91f2-cc37253531f6)
