@@ -1,6 +1,6 @@
 ### 📎 Contents
-1. [Project Proposal](#project-proposal)
-2. [1st Semester Mid-term](#1st-semester-mid-term)
+1. [Project Proposal](#🚀-project-proposal)
+2. [1st Semester Mid-term](#🍔-1st-semester-midterm)
 
 <br>
 
