@@ -1,6 +1,7 @@
 ### 📎 Contents
 1. [Project Proposal](#-project-proposal)
 2. [1st Semester Mid-term](#-1st-semester-mid-term)
+3. [1st Semester Final](#-1st-semester-final)
 
 <br>
 
@@ -57,4 +58,46 @@
 ![image](https://github.com/Bab-Al/.github/assets/90559205/7806afdb-1a61-4ff3-a855-af2b0cb0a875)
 ![image](https://github.com/Bab-Al/.github/assets/90559205/1532d3a2-487e-4eb7-8d68-fde68b19139f)
 
+<br>
+
 ## 🌟 1st Semester Final
+![1학기기말발표 pptx](https://github.com/Bab-Al/.github/assets/90559205/58918e56-e37c-4b37-add5-0b6122faa1bf)
+![1학기기말발표 pptx (1)](https://github.com/Bab-Al/.github/assets/90559205/73ffbd0f-435e-4202-b57e-bd8435048ca8)
+![1학기기말발표 pptx (2)](https://github.com/Bab-Al/.github/assets/90559205/0ff522bc-f500-4a2b-8e09-4d5e1c6b7350)
+![1학기기말발표 pptx (3)](https://github.com/Bab-Al/.github/assets/90559205/a39f7f8a-639f-4ce7-b05c-83c32b5aeee2)
+![image](https://github.com/Bab-Al/.github/assets/90559205/d309de69-1d4d-4b78-a956-c4d35b303717)
+![image](https://github.com/Bab-Al/.github/assets/90559205/cff7724c-eba4-4114-a20d-355efe831d18)
+![image](https://github.com/Bab-Al/.github/assets/90559205/caf96492-1d73-4fd8-a228-c6b505e3fb9b)
+![image](https://github.com/Bab-Al/.github/assets/90559205/adeebf03-54ab-4eae-a8c9-7ef11b4787de)
+![image](https://github.com/Bab-Al/.github/assets/90559205/c31d727a-9fde-4f79-8b84-4905b129ba69)
+![image](https://github.com/Bab-Al/.github/assets/90559205/c5d2467d-9d3a-499c-8521-e235f56701a0)
+![image](https://github.com/Bab-Al/.github/assets/90559205/0f7719f9-d29f-42e9-a818-d47497e84a15)
+![image](https://github.com/Bab-Al/.github/assets/90559205/ed5878eb-79ca-4285-a6ae-a42b2bb59e15)
+![image](https://github.com/Bab-Al/.github/assets/90559205/8f33b434-65c4-4eb8-85fc-adf71fc80252)
+![image](https://github.com/Bab-Al/.github/assets/90559205/97cb48a6-d646-48be-809c-70b228223a9f)
+![image](https://github.com/Bab-Al/.github/assets/90559205/3e4f4421-0c8b-4f71-9136-c0ebd55fc76c)
+![image](https://github.com/Bab-Al/.github/assets/90559205/9298a83f-fe07-4dca-903d-c832d27e227a)
+![image](https://github.com/Bab-Al/.github/assets/90559205/be6fa7e1-86ed-4f70-92b6-28eea1b47430)
+![image](https://github.com/Bab-Al/.github/assets/90559205/abff825c-d5f5-43dd-9378-b4df8232632a)
+![image](https://github.com/Bab-Al/.github/assets/90559205/d1095cdc-23ee-4dc2-b195-722ec2da8c2f)
+![image](https://github.com/Bab-Al/.github/assets/90559205/cec84edc-89d7-40c5-9b02-885593431a94)
+![image](https://github.com/Bab-Al/.github/assets/90559205/ac163a27-32e5-44c0-91c7-dd0a1af59020)
+![image](https://github.com/Bab-Al/.github/assets/90559205/e3182511-3c34-40cc-a5f2-29a7711df361)
+![image](https://github.com/Bab-Al/.github/assets/90559205/d9af3032-5dc6-4fd0-bfa6-3aa4f701a0d7)
+![image](https://github.com/Bab-Al/.github/assets/90559205/db3c97b5-e060-4b79-88f2-14b06078040c)
+![image](https://github.com/Bab-Al/.github/assets/90559205/7b750991-7294-43fc-b40f-cd8649b47652)
+![image](https://github.com/Bab-Al/.github/assets/90559205/07caa60c-56e3-4fe9-8ae6-a6fcb3eb643e)
+![image](https://github.com/Bab-Al/.github/assets/90559205/7a56fbbf-ce71-4fb1-afac-12b0ecfa09f5)
+![image](https://github.com/Bab-Al/.github/assets/90559205/6cd1a57b-3bc1-4543-bd3f-fb985585ca4c)
+![image](https://github.com/Bab-Al/.github/assets/90559205/d83849eb-ce12-4ac6-b937-f81240c479ae)
+![image](https://github.com/Bab-Al/.github/assets/90559205/fb479c68-66e5-4224-9586-d5b3b9ae202d)
+![image](https://github.com/Bab-Al/.github/assets/90559205/93288800-9895-418f-b98d-22636248b477)
+![image](https://github.com/Bab-Al/.github/assets/90559205/a1a8af23-4519-4dd9-af71-b87661b4b420)
+![image](https://github.com/Bab-Al/.github/assets/90559205/c9bb9ffd-7068-432c-8637-6aa5512a8272)
+![image](https://github.com/Bab-Al/.github/assets/90559205/f44c72b8-69b1-4a22-aa75-b38fde481e2e)
+![image](https://github.com/Bab-Al/.github/assets/90559205/9b0faabb-c28f-474d-8ca6-1cf1341be58c)
+![image](https://github.com/Bab-Al/.github/assets/90559205/43e829d3-1fc6-4cac-9176-226373fd8b33)
+![image](https://github.com/Bab-Al/.github/assets/90559205/118f4974-0515-4ebe-99b0-15fed4dd1695)
+
+<br>
+
