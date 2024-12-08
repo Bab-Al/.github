@@ -1,103 +1,197 @@
-### 📎 Contents
-1. [Project Proposal](#-project-proposal)
-2. [1st Semester Mid-term](#-1st-semester-mid-term)
-3. [1st Semester Final](#-1st-semester-final)
+<div align="center">
+  
+  # 🍙 Bab-Al 🍙 
+  **AI-based Healthy Eating Habits Management Platform**  
+  
+  <br>
+  <img src="https://github.com/user-attachments/assets/ed8c04ef-7b31-4ec4-b3ba-c794927d6fe5" alt="로고" width="200">   
+
+  2024.03.03 ~ 2024.11.29
+</div>
 
 <br>
 
-## 🚀 Project Proposal
-![image](https://github.com/Bab-Al/.github/assets/90559205/5239941b-8ef4-4026-9f42-9b44a86fe804)
-![image](https://github.com/Bab-Al/.github/assets/90559205/0ce9b89e-22e4-4d50-91f2-cc37253531f6)
-![image](https://github.com/Bab-Al/.github/assets/90559205/e6895373-0a80-45ce-98da-c5b5d98cda60)
-![image](https://github.com/Bab-Al/.github/assets/90559205/2a3de316-a9f9-411d-a0a2-b1967e910605)
-![image](https://github.com/Bab-Al/.github/assets/90559205/47f2b793-a980-4218-9348-0d2fd54017eb)
-![image](https://github.com/Bab-Al/.github/assets/90559205/8df9ae3c-5b18-4623-a025-7b687d938a19)
-![image](https://github.com/Bab-Al/.github/assets/90559205/19634c12-435d-4d98-9d1b-c646f2dec826)
-![image](https://github.com/Bab-Al/.github/assets/90559205/2c3aa60b-ad88-4065-ba3c-2ffc4b593bcd)
-![image](https://github.com/Bab-Al/.github/assets/90559205/a065f1a9-94ab-489d-959f-2cbaddbdde00)
-![image](https://github.com/Bab-Al/.github/assets/90559205/432efca2-dbfa-4b48-b08f-86ff11d7abc4)
-![image](https://github.com/Bab-Al/.github/assets/90559205/b99fb82f-89c2-465c-80cf-8241650a739a)
-![image](https://github.com/Bab-Al/.github/assets/90559205/3c68ccde-ca21-49f1-b9ae-53d2b66319ec)
-![image](https://github.com/Bab-Al/.github/assets/90559205/676cd1e3-ea8c-4215-9613-e6d352768449)
-![image](https://github.com/Bab-Al/.github/assets/90559205/5b2de99c-b91d-405a-b010-2280e826fdd7)
-![image](https://github.com/Bab-Al/.github/assets/90559205/c8d6f8c4-ebde-47e3-b45f-57096e9290c7)
-![image](https://github.com/Bab-Al/.github/assets/90559205/c7ca3e38-9627-45c0-b8a7-eaac63fdd752)
-![image](https://github.com/Bab-Al/.github/assets/90559205/8300b760-b6e0-449e-8cf2-77526cc3a905)
-![image](https://github.com/Bab-Al/.github/assets/90559205/eee3997a-d933-46a8-adbd-c8ca1ecd4ccb)
-![image](https://github.com/Bab-Al/.github/assets/90559205/b8b47d6e-b8f7-426c-b65c-822b868bd1e7)
-![image](https://github.com/Bab-Al/.github/assets/90559205/9d5a5c36-c881-40ce-9f3d-7efc424a0d46)
-![image](https://github.com/Bab-Al/.github/assets/90559205/06b2adff-065f-479e-99ac-8821509ee02a)
-![image](https://github.com/Bab-Al/.github/assets/90559205/83d38b5b-63f1-49ce-8018-e586e12ffb60)
-![image](https://github.com/Bab-Al/.github/assets/90559205/137ac4a4-b02a-493e-97af-853389f066bb)
-![image](https://github.com/Bab-Al/.github/assets/90559205/7b6454ba-785c-41ce-9b76-01f666759e11)
+## Project Overview
+### 📦 AI NutriTrack
+- 🥗 **Nutritional Analysis**: Identify ingredients from food photos.
+- 🍳 **Recipe Recommendations**: Personalized suggestions based on user preferences.
+- 📊 **Health Tracking**: Graphs for better dietary management.
+- 🤝 **Raspberry Pi Integration**: Meal logging for elderly and caregivers.
+<br>
 
-## 🍔 1st Semester Mid-term
-![image](https://github.com/Bab-Al/.github/assets/90559205/f8be0b27-6bb7-4ca1-8db4-7c867a2a801a)
-![image](https://github.com/Bab-Al/.github/assets/90559205/da21c65a-63fb-4bd4-9088-de66219c413a)
-![image](https://github.com/Bab-Al/.github/assets/90559205/c05b6f93-271b-4113-bd6d-79c4f808652d)
-![image](https://github.com/Bab-Al/.github/assets/90559205/68241051-8ada-4d0d-ac9f-fafacb2266f0)
-![image](https://github.com/Bab-Al/.github/assets/90559205/429fbc99-af06-488d-9a73-cc3b8fc04314)
-![image](https://github.com/Bab-Al/.github/assets/90559205/191a3e13-f7ec-476c-9376-c577ab6d73ae)
-![image](https://github.com/Bab-Al/.github/assets/90559205/166ead91-27e0-47ba-b33e-3eb1a8258be3)
-![image](https://github.com/Bab-Al/.github/assets/90559205/56300304-1929-4dff-99db-f74a3799373d)
-![image](https://github.com/Bab-Al/.github/assets/90559205/20fd5624-3209-4a25-9c00-8dde4f1d35ab)
-![image](https://github.com/Bab-Al/.github/assets/90559205/7669a424-104f-4d10-a472-65d13786e077)
-![image](https://github.com/Bab-Al/.github/assets/90559205/59e78674-f283-40e6-9ef9-39aff3a294db)
-![image](https://github.com/Bab-Al/.github/assets/90559205/70f79172-7e34-484c-ac4a-baecf7caaf60)
-![image](https://github.com/Bab-Al/.github/assets/90559205/4910d815-ed13-4580-b0a6-ee7ddacb9f19)
-![image](https://github.com/Bab-Al/.github/assets/90559205/2b493b2f-c1e8-4c49-87f2-9029b37ffe02)
-![image](https://github.com/Bab-Al/.github/assets/90559205/c7528509-4a8c-4dbf-b5e1-db0b3ffe54a4)
-![image](https://github.com/Bab-Al/.github/assets/90559205/dd0c8693-0dc3-498d-9823-43c243d4dae5)
-![image](https://github.com/Bab-Al/.github/assets/90559205/3447951c-11aa-4628-a50e-e045df4679e5)
-![image](https://github.com/Bab-Al/.github/assets/90559205/37e33086-4123-43f8-b99b-03c161d94b26)
-![image](https://github.com/Bab-Al/.github/assets/90559205/c43f41a1-07de-4ca7-b48b-e7e588ce5dd3)
-![image](https://github.com/Bab-Al/.github/assets/90559205/57d76e3f-063d-4703-a40a-8ddff62dba76)
-![image](https://github.com/Bab-Al/.github/assets/90559205/0f2521c2-aab5-404e-a33c-8fe499416588)
-![image](https://github.com/Bab-Al/.github/assets/90559205/9123c26a-3e0e-41fc-b1f0-38966a4f69b7)
-![image](https://github.com/Bab-Al/.github/assets/90559205/8634a307-8afa-4f66-afe8-1c4907164855)
-![image](https://github.com/Bab-Al/.github/assets/90559205/7806afdb-1a61-4ff3-a855-af2b0cb0a875)
-![image](https://github.com/Bab-Al/.github/assets/90559205/1532d3a2-487e-4eb7-8d68-fde68b19139f)
+### 🤒 Motivation
+<table>
+  <tr>
+    <td width="70%"><img src="https://github.com/user-attachments/assets/f907903b-d5e3-4578-92ff-7edc0457832f"></td>
+    <td width="30%">
+      <ul>
+        <li><b>Digital Culture Impact</b></li>
+        <li><b>Nutritional Imbalance</b></li>
+        <li><b>Healthy Eating Focus</b></li>
+        <li><b>Caregiver Support</b></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-## 🌟 1st Semester Final
-![1학기기말발표 pptx](https://github.com/Bab-Al/.github/assets/90559205/58918e56-e37c-4b37-add5-0b6122faa1bf)
-![1학기기말발표 pptx (1)](https://github.com/Bab-Al/.github/assets/90559205/73ffbd0f-435e-4202-b57e-bd8435048ca8)
-![1학기기말발표 pptx (2)](https://github.com/Bab-Al/.github/assets/90559205/0ff522bc-f500-4a2b-8e09-4d5e1c6b7350)
-![1학기기말발표 pptx (3)](https://github.com/Bab-Al/.github/assets/90559205/a39f7f8a-639f-4ce7-b05c-83c32b5aeee2)
-![image](https://github.com/Bab-Al/.github/assets/90559205/d309de69-1d4d-4b78-a956-c4d35b303717)
-![image](https://github.com/Bab-Al/.github/assets/90559205/cff7724c-eba4-4114-a20d-355efe831d18)
-![image](https://github.com/Bab-Al/.github/assets/90559205/caf96492-1d73-4fd8-a228-c6b505e3fb9b)
-![image](https://github.com/Bab-Al/.github/assets/90559205/adeebf03-54ab-4eae-a8c9-7ef11b4787de)
-![image](https://github.com/Bab-Al/.github/assets/90559205/c31d727a-9fde-4f79-8b84-4905b129ba69)
-![image](https://github.com/Bab-Al/.github/assets/90559205/c5d2467d-9d3a-499c-8521-e235f56701a0)
-![image](https://github.com/Bab-Al/.github/assets/90559205/0f7719f9-d29f-42e9-a818-d47497e84a15)
-![image](https://github.com/Bab-Al/.github/assets/90559205/ed5878eb-79ca-4285-a6ae-a42b2bb59e15)
-![image](https://github.com/Bab-Al/.github/assets/90559205/8f33b434-65c4-4eb8-85fc-adf71fc80252)
-![image](https://github.com/Bab-Al/.github/assets/90559205/97cb48a6-d646-48be-809c-70b228223a9f)
-![image](https://github.com/Bab-Al/.github/assets/90559205/3e4f4421-0c8b-4f71-9136-c0ebd55fc76c)
-![image](https://github.com/Bab-Al/.github/assets/90559205/9298a83f-fe07-4dca-903d-c832d27e227a)
-![image](https://github.com/Bab-Al/.github/assets/90559205/be6fa7e1-86ed-4f70-92b6-28eea1b47430)
-![image](https://github.com/Bab-Al/.github/assets/90559205/abff825c-d5f5-43dd-9378-b4df8232632a)
-![image](https://github.com/Bab-Al/.github/assets/90559205/d1095cdc-23ee-4dc2-b195-722ec2da8c2f)
-![image](https://github.com/Bab-Al/.github/assets/90559205/cec84edc-89d7-40c5-9b02-885593431a94)
-![image](https://github.com/Bab-Al/.github/assets/90559205/ac163a27-32e5-44c0-91c7-dd0a1af59020)
-![image](https://github.com/Bab-Al/.github/assets/90559205/e3182511-3c34-40cc-a5f2-29a7711df361)
-![image](https://github.com/Bab-Al/.github/assets/90559205/d9af3032-5dc6-4fd0-bfa6-3aa4f701a0d7)
-![image](https://github.com/Bab-Al/.github/assets/90559205/db3c97b5-e060-4b79-88f2-14b06078040c)
-![image](https://github.com/Bab-Al/.github/assets/90559205/7b750991-7294-43fc-b40f-cd8649b47652)
-![image](https://github.com/Bab-Al/.github/assets/90559205/07caa60c-56e3-4fe9-8ae6-a6fcb3eb643e)
-![image](https://github.com/Bab-Al/.github/assets/90559205/7a56fbbf-ce71-4fb1-afac-12b0ecfa09f5)
-![image](https://github.com/Bab-Al/.github/assets/90559205/6cd1a57b-3bc1-4543-bd3f-fb985585ca4c)
-![image](https://github.com/Bab-Al/.github/assets/90559205/d83849eb-ce12-4ac6-b937-f81240c479ae)
-![image](https://github.com/Bab-Al/.github/assets/90559205/fb479c68-66e5-4224-9586-d5b3b9ae202d)
-![image](https://github.com/Bab-Al/.github/assets/90559205/93288800-9895-418f-b98d-22636248b477)
-![image](https://github.com/Bab-Al/.github/assets/90559205/a1a8af23-4519-4dd9-af71-b87661b4b420)
-![image](https://github.com/Bab-Al/.github/assets/90559205/c9bb9ffd-7068-432c-8637-6aa5512a8272)
-![image](https://github.com/Bab-Al/.github/assets/90559205/f44c72b8-69b1-4a22-aa75-b38fde481e2e)
-![image](https://github.com/Bab-Al/.github/assets/90559205/9b0faabb-c28f-474d-8ca6-1cf1341be58c)
-![image](https://github.com/Bab-Al/.github/assets/90559205/43e829d3-1fc6-4cac-9176-226373fd8b33)
-![image](https://github.com/Bab-Al/.github/assets/90559205/118f4974-0515-4ebe-99b0-15fed4dd1695)
+### 🎯 Target
+**1. 🍎 Healthy Eating Habits** : Promotes balanced diets and supports individuals aiming for long-term health improvements  
+**2. 🧓 Patients or Elderly** : Assists physically challenged individuals and helps caregivers effectively manage dietary needs
 
 <br>
 
+### 🌌 Flow Chart
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8dc4bfbb-e954-4f69-aa61-66541d962fb5" width="80%">
+</div>
+
+<br>
+
+## Techniques
+### 🔧 Tools
+
+| **Category**    | **Technologies**                                                                                             |
+|------------------|-------------------------------------------------------------------------------------------------------------|
+| **AI**          | ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
+| **Frontend**     | ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white) |
+| **Backend**      | ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Embedded System** | ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Others**        | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) ![Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white) ![ngrok](https://img.shields.io/badge/-ngrok-1F1E1F?style=flat-square&logo=ngrok&logoColor=white) |
+
+<br>
+
+### 🛠️ Architecture
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ed0908ef-8279-45b1-bd40-10c7820664a1">
+</div>
+
+<br>
+
+### 🧶 Algorithm
+#### 1. Raspberry Pi Kernel Module for Camera
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img src="https://github.com/user-attachments/assets/3f8d51cd-f4b3-4041-8442-aa5d9424afeb" width="80%">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>When the user presses a button, the connected <strong>Raspberry Pi</strong> takes a picture using the <strong>camera module</strong>.</li>
+        <li>The captured image is automatically sent to our <strong>AI server</strong> for processing.</li>
+        <li>The detected food name and nutritional information are then sent to our <strong>backend server</strong> via a POST request.</li>
+        <li>Consequently, the user's family or caregivers can view the meal records through our <strong>iOS app</strong>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+#### 2. Food Object Detection & Nutrient Estimation
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img src="https://github.com/user-attachments/assets/01842f63-0a77-46db-bf57-fb42e1c8a274" width="80%">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>The received image file is resized to <strong>640x640px</strong>, and the filename is modified to include the current time.</li>
+        <li>The image is saved on <strong>Google Drive</strong> in a specified folder.</li>
+        <li>Food object detection is performed using a trained model, and the results are stored in a `.txt` file.</li>
+        <li>The system reads the result and extracts the class codes of the detected food items.</li>
+        <li>The same image is then used for quantity estimation using a different model, which estimates the number of food items based on bounding boxes and reference objects.</li>
+        <li>The quantity and nutritional content of the detected food are calculated and sent as a <strong>JSON response</strong> to the client.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+#### 3. Recipe Recommendation
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img src="https://github.com/user-attachments/assets/ccab78fe-5586-4add-bdba-ab953f8e12a2" width="80%">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>The recommendation system provides two recipes based on the user's information, such as age, gender, and dietary preferences.</li>
+        <li>First, food data is filtered based on a 7:3 ratio between ingredients and tags.</li>
+        <li>Nutritional components like carbohydrates, proteins, and fats are converted into vectors, and cosine similarity with the user's vector is used to generate the first recommendation.</li>
+        <li>The second recommendation is based on the first recommendation and other users' consumption patterns, using a <strong>NGCF-based model</strong> in the RecBole framework to predict similar items.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## Application
+### 🎞️ [Video](https://youtu.be/neTSmxHLIRQ?si=FmVLHrGp9E3OCn7v) 🎞️
+|Landing|SignUp 1|SignUp 2|SignUp 3|
+|:------:|:-----:|:-----:|:-----:|
+|<img src="https://github.com/user-attachments/assets/48682f1f-c726-43a1-80a4-727748d60577" width="250" height="450">|<img src="https://github.com/user-attachments/assets/16e3303d-2cec-4c1b-b794-656f8a1b5578" width="250" height="450">|<img src="https://github.com/user-attachments/assets/9e0e6784-cf2b-4586-b8ae-77d3c4ba0f41" width="250" height="450">|<img src="https://github.com/user-attachments/assets/5ac7363e-1f6a-41f8-8b55-11502fdf412b" width="250" height="450">|
+
+|SignUp 4|Login|Dashboard|Meal Recording|
+|:------:|:-----:|:-----:|:-----:|
+|<img src="https://github.com/user-attachments/assets/fbc3cb3a-bd28-4e00-b210-9f167f3fa502" width="250" height="450">|<img src="https://github.com/user-attachments/assets/c37075bf-f5a2-482d-bfb0-c32980c8ee49" width="250" height="450">|<img src="https://github.com/user-attachments/assets/11b3ced2-d614-4b18-b8d1-ceb230b523e7" width="250" height="450">|<img src="https://github.com/user-attachments/assets/7860efae-bb5c-4b88-ac0e-aa53bb0c6f20" width="250" height="450">|
+
+|Statistics|Search Ingredients|Recipe Recommendation|Profile|
+|:------:|:-----:|:-----:|:-----:|
+|<img src="https://github.com/user-attachments/assets/ad8688a9-b591-412d-98df-6fea7150e100" width="250" height="450">|<img src="https://github.com/user-attachments/assets/52e7f130-a478-485d-b769-051a5f5796d4" width="250" height="450">|<img src="https://github.com/user-attachments/assets/21533f2b-8441-4ea3-9970-44581552d9d6" width="250" height="450">|<img src="https://github.com/user-attachments/assets/a07f3039-0a0b-4a19-8248-c28d189e1594" width="250" height="450">
+
+<br>
+
+## Members
+<div>
+  <table align="center">
+      <tr>
+         <td align="center">
+          <a href="https://github.com/alsrudursla">                 
+              <img src="https://avatars.githubusercontent.com/alsrudursla" width="150" />            
+          </a>
+          </td>
+          <td align="center">
+              <a href="https://github.com/great-whiteshark">                 
+                  <img src="https://avatars.githubusercontent.com/great-whiteshark" width="150" />            
+              </a>
+          </td>
+          <td align="center">
+              <a href="https://github.com/glyserin">                 
+                  <img src="https://avatars.githubusercontent.com/glyserin" width="150" />            
+              </a>
+          </td>
+      </tr>
+      <tr>
+          <td align="center"><a href="https://github.com/alsrudursla">Minkyung Lee</td>
+          <td align="center"><a href="https://github.com/great-whiteshark">Sangah Park</td>
+          <td align="center"><a href="https://github.com/glyserin">Serin Jeong</td>
+      </tr>
+      <tr>
+          <td align="center">Backend & AI (Recipe Recommendation)</td>
+          <td align="center">AI (Food Object Detection & Nutrient Estimation)</td>
+          <td align="center">Frontend & Embedded System</td>
+      </tr>
+  </table>
+</div>
+
+<br>
+
+## History ... 🗝️
+- <a href="https://docs.google.com/presentation/d/1QrXeJSxBtcstQ_Zlqwcslb58-KhQvGwz/edit?usp=sharing&ouid=100038788088422788715&rtpof=true&sd=true">Project Proposal
+- <a href="https://docs.google.com/presentation/d/1JiIgi8jT8OxlzkW1yJh-92o-bsgXVcgb/edit?usp=sharing&ouid=100038788088422788715&rtpof=true&sd=true">1st Semester Mid-term
+- <a href="https://docs.google.com/presentation/d/14JxHUYh8s5p_rD2p4OF90fvD5BDoZupl/edit?usp=sharing&ouid=100038788088422788715&rtpof=true&sd=true">1st Semester Final
+- <a href="https://docs.google.com/presentation/d/1JzbhbOjaKnPiNo5ilgzPBzcCjH2JMH8k/edit?usp=sharing&ouid=100038788088422788715&rtpof=true&sd=true">2nd Semester Mid-term
+- <a href="https://docs.google.com/presentation/d/1AUCGKxoDh1jkbA120qPAnuFhUc49Ij1t/edit?usp=sharing&ouid=100038788088422788715&rtpof=true&sd=true">2nd Semeter Final
+- <a href="https://docs.google.com/presentation/d/12fUdrlWIgzY9HeWGDnD6bRjLianSQhyP/edit?usp=sharing&ouid=100038788088422788715&rtpof=true&sd=true">The Last
