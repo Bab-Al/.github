@@ -6,7 +6,7 @@
   <br>
   <img src="https://github.com/user-attachments/assets/ed8c04ef-7b31-4ec4-b3ba-c794927d6fe5" alt="로고" width="200">   
 
-  2024.03.03 ~ 2024.11.29
+  2024.03.06 ~ 2024.11.29
 </div>
 
 <br>
