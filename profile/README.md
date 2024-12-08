@@ -141,15 +141,15 @@
 ### 🎞️ [Video](https://youtu.be/neTSmxHLIRQ?si=FmVLHrGp9E3OCn7v) 🎞️
 |Landing|SignUp 1|SignUp 2|SignUp 3|
 |:------:|:-----:|:-----:|:-----:|
-|<img src="https://github.com/user-attachments/assets/48682f1f-c726-43a1-80a4-727748d60577" width="250" height="450">|<img src="https://github.com/user-attachments/assets/16e3303d-2cec-4c1b-b794-656f8a1b5578" width="250" height="450">|<img src="https://github.com/user-attachments/assets/9e0e6784-cf2b-4586-b8ae-77d3c4ba0f41" width="250" height="450">|<img src="https://github.com/user-attachments/assets/5ac7363e-1f6a-41f8-8b55-11502fdf412b" width="250" height="450">|
+|<img src="https://github.com/user-attachments/assets/48682f1f-c726-43a1-80a4-727748d60577" width="250">|<img src="https://github.com/user-attachments/assets/16e3303d-2cec-4c1b-b794-656f8a1b5578" width="250">|<img src="https://github.com/user-attachments/assets/9e0e6784-cf2b-4586-b8ae-77d3c4ba0f41" width="250">|<img src="https://github.com/user-attachments/assets/5ac7363e-1f6a-41f8-8b55-11502fdf412b" width="250">|
 
 |SignUp 4|Login|Dashboard|Meal Recording|
 |:------:|:-----:|:-----:|:-----:|
-|<img src="https://github.com/user-attachments/assets/fbc3cb3a-bd28-4e00-b210-9f167f3fa502" width="250" height="450">|<img src="https://github.com/user-attachments/assets/c37075bf-f5a2-482d-bfb0-c32980c8ee49" width="250" height="450">|<img src="https://github.com/user-attachments/assets/11b3ced2-d614-4b18-b8d1-ceb230b523e7" width="250" height="450">|<img src="https://github.com/user-attachments/assets/7860efae-bb5c-4b88-ac0e-aa53bb0c6f20" width="250" height="450">|
+|<img src="https://github.com/user-attachments/assets/fbc3cb3a-bd28-4e00-b210-9f167f3fa502" width="250">|<img src="https://github.com/user-attachments/assets/c37075bf-f5a2-482d-bfb0-c32980c8ee49" width="250">|<img src="https://github.com/user-attachments/assets/11b3ced2-d614-4b18-b8d1-ceb230b523e7" width="250">|<img src="https://github.com/user-attachments/assets/7860efae-bb5c-4b88-ac0e-aa53bb0c6f20" width="250">|
 
 |Statistics|Search Ingredients|Recipe Recommendation|Profile|
 |:------:|:-----:|:-----:|:-----:|
-|<img src="https://github.com/user-attachments/assets/ad8688a9-b591-412d-98df-6fea7150e100" width="250" height="450">|<img src="https://github.com/user-attachments/assets/52e7f130-a478-485d-b769-051a5f5796d4" width="250" height="450">|<img src="https://github.com/user-attachments/assets/21533f2b-8441-4ea3-9970-44581552d9d6" width="250" height="450">|<img src="https://github.com/user-attachments/assets/a07f3039-0a0b-4a19-8248-c28d189e1594" width="250" height="450">
+|<img src="https://github.com/user-attachments/assets/ad8688a9-b591-412d-98df-6fea7150e100" width="250">|<img src="https://github.com/user-attachments/assets/52e7f130-a478-485d-b769-051a5f5796d4" width="250">|<img src="https://github.com/user-attachments/assets/21533f2b-8441-4ea3-9970-44581552d9d6" width="250">|<img src="https://github.com/user-attachments/assets/a07f3039-0a0b-4a19-8248-c28d189e1594" width="250">
 
 <br>
 
