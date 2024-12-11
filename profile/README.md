@@ -176,7 +176,7 @@
       <tr>
           <td align="center"><a href="https://github.com/alsrudursla">Minkyung Lee</td>
           <td align="center"><a href="https://github.com/great-whiteshark">Sangah Park</td>
-          <td align="center"><a href="https://github.com/glyserin">Serin Jeong</td>
+          <td align="center"><a href="https://github.com/glyserin">Serin Cheong</td>
       </tr>
       <tr>
           <td align="center">Backend & AI (Recipe Recommendation)</td>
