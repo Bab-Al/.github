@@ -179,9 +179,9 @@
           <td align="center"><a href="https://github.com/glyserin">Serin Cheong</td>
       </tr>
       <tr>
-          <td align="center">Backend & AI (Recipe Recommendation)</td>
+          <td align="center"><a href="https://github.com/Bab-Al/Babal-Server">Backend</a> & <a href="https://colab.research.google.com/drive/1iPOW8daDEVpywfpSz49TdZ_2xl2DIa-c?ouid=0&usp=chrome_ntp">AI (Recipe Recommendation)</a></td>
           <td align="center">AI (Food Object Detection & Nutrient Estimation)</td>
-          <td align="center">Frontend & Embedded System</td>
+          <td align="center"><a href="https://github.com/Bab-Al/Babal-iOS">Frontend</a> & Embedded System</td>
       </tr>
   </table>
 </div>
