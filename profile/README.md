@@ -138,7 +138,7 @@
 <br>
 
 ## Application
-### 🎞️ [Video](https://youtu.be/neTSmxHLIRQ?si=FmVLHrGp9E3OCn7v) 🎞️
+<!--### 🎞️ [Video](https://youtu.be/neTSmxHLIRQ?si=FmVLHrGp9E3OCn7v) 🎞️-->
 |Landing|SignUp 1|SignUp 2|SignUp 3|
 |:------:|:-----:|:-----:|:-----:|
 |<img src="https://github.com/user-attachments/assets/48682f1f-c726-43a1-80a4-727748d60577" width="250">|<img src="https://github.com/user-attachments/assets/16e3303d-2cec-4c1b-b794-656f8a1b5578" width="250">|<img src="https://github.com/user-attachments/assets/9e0e6784-cf2b-4586-b8ae-77d3c4ba0f41" width="250">|<img src="https://github.com/user-attachments/assets/5ac7363e-1f6a-41f8-8b55-11502fdf412b" width="250">|
