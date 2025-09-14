@@ -188,6 +188,7 @@
 
 <br>
 
+<!--
 ## History ... 🗝️
 - <a href="https://docs.google.com/presentation/d/1QrXeJSxBtcstQ_Zlqwcslb58-KhQvGwz/edit?usp=sharing&ouid=100038788088422788715&rtpof=true&sd=true">Project Proposal
 - <a href="https://docs.google.com/presentation/d/1JiIgi8jT8OxlzkW1yJh-92o-bsgXVcgb/edit?usp=sharing&ouid=100038788088422788715&rtpof=true&sd=true">1st Semester Mid-term
@@ -195,3 +196,4 @@
 - <a href="https://docs.google.com/presentation/d/1JzbhbOjaKnPiNo5ilgzPBzcCjH2JMH8k/edit?usp=sharing&ouid=100038788088422788715&rtpof=true&sd=true">2nd Semester Mid-term
 - <a href="https://docs.google.com/presentation/d/1AUCGKxoDh1jkbA120qPAnuFhUc49Ij1t/edit?usp=sharing&ouid=100038788088422788715&rtpof=true&sd=true">2nd Semeter Final
 - <a href="https://docs.google.com/presentation/d/12fUdrlWIgzY9HeWGDnD6bRjLianSQhyP/edit?usp=sharing&ouid=100038788088422788715&rtpof=true&sd=true">The Last
+-->
